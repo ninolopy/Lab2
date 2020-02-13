@@ -1,0 +1,72 @@
+Sensor front Actual (mm): 194	Sensor Side Actual(mm): 59
+theta sensor(deg): -17
+Sensor front Actual (mm): 193	Sensor Side Actual(mm): 61
+theta sensor(deg): -16
+Sensor front Actual (mm): 194	Sensor Side Actual(mm): 60
+theta sensor(deg): -15
+Sensor front Actual (mm): 194	Sensor Side Actual(mm): 61
+theta sensor(deg): -15
+Sensor front Actual (mm): 186	Sensor Side Actual(mm): 62
+theta sensor(deg): -15
+Sensor front Actual (mm): 181	Sensor Side Actual(mm): 63
+theta sensor(deg): -14
+Sensor front Actual (mm): 174	Sensor Side Actual(mm): 63
+theta sensor(deg): -13
+Sensor front Actual (mm): 165	Sensor Side Actual(mm): 63
+theta sensor(deg): -11
+Sensor front Actual (mm): 153	Sensor Side Actual(mm): 63
+theta sensor(deg): -8
+Sensor front Actual (mm): 146	Sensor Side Actual(mm): 63
+theta sensor(deg): -7
+Sensor front Actual (mm): 131	Sensor Side Actual(mm): 59
+theta sensor(deg): -5
+Sensor front Actual (mm): 118	Sensor Side Actual(mm): 57
+theta sensor(deg): -3
+Sensor front Actual (mm): 109	Sensor Side Actual(mm): 53
+theta sensor(deg): -2
+Sensor front Actual (mm): 99	Sensor Side Actual(mm): 55
+theta sensor(deg): 0
+Sensor front Actual (mm): 89	Sensor Side Actual(mm): 50
+theta sensor(deg): 0
+Sensor front Actual (mm): 84	Sensor Side Actual(mm): 51
+theta sensor(deg): 1
+Sensor front Actual (mm): 77	Sensor Side Actual(mm): 49
+theta sensor(deg): 1
+Sensor front Actual (mm): 70	Sensor Side Actual(mm): 48
+theta sensor(deg): 1
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 49
+theta sensor(deg): 1
+Sensor front Actual (mm): 65	Sensor Side Actual(mm): 48
+theta sensor(deg): 1
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 46
+theta sensor(deg): 1
+Sensor front Actual (mm): 65	Sensor Side Actual(mm): 47
+theta sensor(deg): 1
+Sensor front Actual (mm): 68	Sensor Side Actual(mm): 49
+theta sensor(deg): 1
+Sensor front Actual (mm): 65	Sensor Side Actual(mm): 50
+theta sensor(deg): 1
+Sensor front Actual (mm): 66	Sensor Side Actual(mm): 47
+theta sensor(deg): 0
+Sensor front Actual (mm): 64	Sensor Side Actual(mm): 49
+theta sensor(deg): 0
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 47
+theta sensor(deg): 0
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 47
+theta sensor(deg): 0
+Sensor front Actual (mm): 65	Sensor Side Actual(mm): 47
+theta sensor(deg): 0
+Sensor front Actual (mm): 66	Sensor Side Actual(mm): 50
+theta sensor(deg): 0
+Sensor front Actual (mm): 68	Sensor Side Actual(mm): 46
+theta sensor(deg): 0
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 48
+theta sensor(deg): 0
+Sensor front Actual (mm): 67	Sensor Side Actual(mm): 48
+theta sensor(deg): 0
+Sensor front Actual (mm): 65	Sensor Side Actual(mm): 50
+theta sensor(deg): 0
+Sensor front Actual (mm): 66	Sensor Side Actual(mm): 50
+theta sensor(deg): 0
+al (mm): 181	Sensor Side Actual(mm): 70
+theta sensor(deg): -6
